@@ -9,7 +9,7 @@ economic growth fail to reach those who need it most?**
 That question pulls me toward development economics, 
 inequality, and financial systems in emerging economies.
 
-## 🌱 Currently learning
+## 📚 Currently learning
 - R and Python for data analysis
 - HTML & CSS for web development  
 - German 🇩🇪 (targeting DAAD & Erasmus Mundus scholarships)
