@@ -16,8 +16,8 @@ inequality, and financial systems in emerging economies.
 
 ## 📊 Projects
 - 🌍 [GDP vs HDI Analysis](https://github.com/sancharimitra09-max/gdp-hdi-development-analysis) — R, ggplot2
-- 🫐 [Recipe Webpage](https://sancharimitra09-max.github.io/blueberry-cheesecake) — HTML, CSS
 - 🌍 [GDP vs HDI Analysis — Python](https://github.com/sancharimitra09-max/gdp-hdi-analysis-python) — Python, pandas, matplotlib
+- 🫐 [Recipe Webpage](https://sancharimitra09-max.github.io/blueberry-cheesecake) — HTML, CSS
 
 ## 📬 Always open to
 Research discussions, development economics rabbit holes, 
