@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sanchari 👋
 
-<!--
-**sancharimitra09-max/sancharimitra09-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Economics undergraduate at Delhi University, 
+building toward an MSc in Economics abroad (targeting 
+European universities, Fall 2028).
 
-Here are some ideas to get you started:
+My core interest is simple but stubborn — **why does 
+economic growth fail to reach those who need it most?**
+That question pulls me toward development economics, 
+inequality, and financial systems in emerging economies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- R and Python for data analysis
+- HTML & CSS for web development  
+- German 🇩🇪 (targeting DAAD & Erasmus Mundus scholarships)
+
+## 📊 Projects
+- 🌍 [GDP vs HDI Analysis](https://github.com/sancharimitra09-max/gdp-hdi-development-analysis) — R, ggplot2
+- 🫐 [Recipe Webpage](https://sancharimitra09-max.github.io/blueberry-cheesecake) — HTML, CSS
+
+## 📬 Always open to
+Research discussions, development economics rabbit holes, 
+and connecting with people working on inequality & emerging markets.
